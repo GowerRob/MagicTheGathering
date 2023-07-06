@@ -1,2 +1,2 @@
 # MagicTheGathering
-A project about MTG
+A project about MTG without cards
